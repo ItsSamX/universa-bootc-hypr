@@ -1,0 +1,7 @@
+{
+  "layer": "top",
+  "modules-left": ["hyprland/workspaces"],
+  "modules-center": ["clock"],
+  "modules-right": ["network", "bluetooth", "battery", "tray"],
+  "clock": { "format": "{:%Y-%m-%d %H:%M}" }
+}
